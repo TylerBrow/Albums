@@ -1,0 +1,145 @@
+{
+  "albums": [
+    {
+    "id":"1",
+    "albumname": "S-Tier",
+    "iurl": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/super-smash-bros-switch/3/33/Reddittierlist.png?width=640"
+    },
+    {
+      "id":"2",
+      "albumname": "A-Tier",
+      "iurl": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/super-smash-bros-switch/3/33/Reddittierlist.png?width=640"
+    },
+    {
+      "id":"3",
+      "albumname": "B-Tier",
+      "iurl": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/super-smash-bros-switch/3/33/Reddittierlist.png?width=640"
+     },
+     {
+      "id":"4",
+      "albumname": "C-Tier",
+      "iurl": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/super-smash-bros-switch/3/33/Reddittierlist.png?width=640"
+    },
+    {
+      "id":"5",
+      "albumname": "D-Tier",
+      "iurl": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/super-smash-bros-switch/3/33/Reddittierlist.png?width=640"
+    },
+    {
+      "id":"6",
+      "albumname": "E-Tier",
+      "iurl": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/super-smash-bros-switch/3/33/Reddittierlist.png?width=640"
+    }
+  ],
+  "pictures": [
+    {
+      "id": "1",
+      "albumId": "1",
+      "picturename": "little-mac",
+      "picurl": "https://i.ytimg.com/vi/tonrhwMFQ8o/maxresdefault.jpg"
+    },
+    {
+      "id": "2",
+      "albumId": "1",
+      "picturename": "peach",
+      "picurl": "https://media0dk-a.akamaihd.net/91/65/8e1fcbf64a3ca277538189b8350f8302.jpeg"
+    },
+    {
+      "id": "3",
+      "albumId": "1",
+      "picturename": "marth",
+      "picurl": "https://d1lss44hh2trtw.cloudfront.net/assets/editorial/2018/09/super-smash-bros-ultimate-marth-2.jpg"
+    },
+    {
+      "id": "4",
+      "albumId": "2",
+      "picturename": "fox",
+      "picurl": "https://d1lss44hh2trtw.cloudfront.net/assets/editorial/2018/10/super-smash-bros-ultimate-fox-5.jpg"
+    },
+    {
+      "id": "5",
+      "albumId": "2",
+      "picturename": "sonic",
+      "picurl": "https://www.smashbros.com/assets_v2/img/fighter/sonic/ss_3.jpg"
+    },
+    {
+      "id": "6",
+      "albumId": "2",
+      "picturename": "cloud",
+      "picurl": "https://www.geek.com/wp-content/uploads/2019/01/cloud-smash-ultimate-625x352.png"
+    },
+    {
+      "id": "7",
+      "albumId": "3",
+      "picturename": "yoshi",
+      "picurl": "https://www.geek.com/wp-content/uploads/2018/10/yoshi-smash-ultimate-625x352.png"
+    },
+    {
+      "id": "8",
+      "albumId": "3",
+      "picturename": "ganondorf",
+      "picurl": "http://d1mt9jmphk9kik.cloudfront.net/teamdignitas/image1546297130.jpg"
+    },
+    {
+      "id": "9",
+      "albumId": "3",
+      "picturename": "captain-falcon",
+      "picurl": "https://i.ytimg.com/vi/qdGJtlUG5cs/maxresdefault.jpg"
+    },
+    {
+      "id": "10",
+      "albumId": "4",
+      "picturename": "rob",
+      "picurl": "uhttps://www.gameshedge.com/wp-content/uploads/2018/12/sadgfhserg-788x443.jpgrl"
+    },
+    {
+      "id": "11",
+      "albumId": "4",
+      "picturename": "toon-link",
+      "picurl": "https://www.smashbros.com/assets_v2/img/fighter/toon_link/ss_5.jpg"
+    },
+    {
+      "id": "12",
+      "albumId": "4",
+      "picturename": "ness",
+      "picurl": "https://d1lss44hh2trtw.cloudfront.net/assets/editorial/2018/12/super-smash-bros-ultimate-ness-4.jpg"
+    },
+    {
+      "id": "13",
+      "albumId": "5",
+      "picturename": "lucario",
+      "picurl": "https://www.smashbros.com/assets_v2/img/fighter/lucario/ss_5.jpg"
+    },
+    {
+      "id": "14",
+      "albumId": "5",
+      "picturename": "trainer",
+      "picurl": "https://cdn.gamer-network.net/2018/usgamer/wii-fit-trainer-1.png"
+    },
+    {
+      "id": "15",
+      "albumId": "5",
+      "picturename": "samus",
+      "picurl": "https://d1lss44hh2trtw.cloudfront.net/assets/article/2018/12/05/super-smash-bros-ultimate-samus-6_feature.jpg"
+    },
+    {
+      "id": "16",
+      "albumId": "6",
+      "picturename": "luigi",
+      "picurl": "https://www.smashbros.com/assets_v2/img/fighter/luigi/ss_4.jpg"
+    },
+    {
+      "id": "17",
+      "albumId": "6",
+      "picturename": "mario",
+      "picurl": "https://www.geek.com/wp-content/uploads/2018/11/dr-mario-smash-ultimate-625x352.png"
+    },
+    {
+      "id": "18",
+      "albumId": "6",
+      "picturename": "kirby",
+      "picurl": "https://www.geek.com/wp-content/uploads/2018/10/kirby-smash-ultimate-625x352.png"
+    }
+
+  ]
+} 
