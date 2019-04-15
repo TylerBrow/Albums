@@ -26,31 +26,54 @@ code {
   margin: 0 20%;
   border: 1px solid black;
 }
-#heading {
+
+h1 {
+  width: 1000px;
+  margin: auto;
+  padding: 20px;
   background-color: gray;
   text-align: center;
   font-size: 30px;
-  
 }
-h1 {
-  margin: 0;
-  padding: 20px;
-}
-#albumcontainer {
+.grid {
+  width: 1000px;
+  margin: auto;
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-between;
+  justify-content: center;
 }
-#album {
+.grid-item {
   width: 200px;
   height: 250px;
   margin: 40px;
   border: 1px solid black;
+  text-align: center;
 }
-#album img {
+.grid-item img {
   width: 200px;
   height: 200px;
+  
 }
 p {
   text-align: center;
+}
+.container {
+  display: flex;
+}
+.container nav ul {
+  padding: 30px 40px;
+  margin: auto;
+  list-style: none;
+  border-right: 1px solid black;
+}
+.container nav li {
+  padding: 10px 0;
+}
+.container nav ul a {
+  color: black;
+}
+.imageView img{
+  max-width: 100%;
+  margin: auto;
+  padding: 50px 500px;
 }
